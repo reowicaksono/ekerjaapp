@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "909278799977",
+    "project_id": "ekerja-c32d3",
+    "storage_bucket": "ekerja-c32d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909278799977:android:15dfb8478609ff1ef5daf8",
+        "android_client_info": {
+          "package_name": "com.example.ekerja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909278799977-f6ktfc77aofu1mff5vaq56msd41qh5tc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekerja",
+            "certificate_hash": "e50d34ad396078f18beeb74133c0f705943b18f7"
+          }
+        },
+        {
+          "client_id": "909278799977-et6nr17rb8vceu8ajj3ikbl4uerf563u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGDVQKTu3lHxlfb2xKDPiyg2iNC03HVVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909278799977-et6nr17rb8vceu8ajj3ikbl4uerf563u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
